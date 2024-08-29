@@ -1,0 +1,39 @@
+<svg width="112" height="704" viewBox="0 0 112 704" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="-0.5" cy="512.5" r="45.5" fill="#384FDF"/>
+<circle cx="23.5" cy="586.5" r="88" stroke="#384FDF"/>
+<circle cx="58.5" cy="184.5" r="20.5" fill="#697BEC"/>
+<rect x="-13" y="203.691" width="51.824" height="51.824" transform="rotate(-59.5821 -13 203.691)" fill="#384FDF" fill-opacity="0.25"/>
+<rect x="-17.2084" y="703.097" width="51.824" height="51.824" transform="rotate(-107.936 -17.2084 703.097)" fill="#384FDF"/>
+<mask id="mask0_211_587" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-27" y="0" width="122" height="122">
+<rect x="-27" y="76.8691" width="89.1384" height="89.1384" transform="rotate(-59.5821 -27 76.8691)" fill="#10A6AA" fill-opacity="0.6"/>
+</mask>
+<g mask="url(#mask0_211_587)">
+<path d="M0.520317 0V122.121" stroke="#697BEC"/>
+<path d="M3.96036 0V122.121" stroke="#697BEC"/>
+<path d="M7.4004 0V122.121" stroke="#697BEC"/>
+<path d="M10.8404 0V122.121" stroke="#697BEC"/>
+<path d="M14.2805 0V122.121" stroke="#697BEC"/>
+<path d="M17.7205 0V122.121" stroke="#697BEC"/>
+<path d="M21.1606 0V122.121" stroke="#697BEC"/>
+<path d="M24.6006 0V122.121" stroke="#697BEC"/>
+<path d="M28.0406 0V122.121" stroke="#697BEC"/>
+<path d="M31.4807 0V122.121" stroke="#697BEC"/>
+<path d="M34.9207 0V122.121" stroke="#697BEC"/>
+<path d="M38.3608 0V122.121" stroke="#697BEC"/>
+<path d="M41.8008 0V122.121" stroke="#697BEC"/>
+<path d="M45.2409 0V122.121" stroke="#697BEC"/>
+<path d="M48.6809 0V122.121" stroke="#697BEC"/>
+<path d="M52.1209 0V122.121" stroke="#697BEC"/>
+<path d="M55.561 0V122.121" stroke="#697BEC"/>
+<path d="M59.001 0V122.121" stroke="#697BEC"/>
+<path d="M62.4411 0V122.121" stroke="#697BEC"/>
+<path d="M65.8811 0V122.121" stroke="#697BEC"/>
+<path d="M69.3211 0V122.121" stroke="#697BEC"/>
+<path d="M72.7612 0V122.121" stroke="#697BEC"/>
+<path d="M76.2012 0V122.121" stroke="#697BEC"/>
+<path d="M79.6413 0V122.121" stroke="#697BEC"/>
+<path d="M83.0813 0V122.121" stroke="#697BEC"/>
+<path d="M86.5213 0V122.121" stroke="#697BEC"/>
+<path d="M89.9614 0V122.121" stroke="#697BEC"/>
+</g>
+</svg>
