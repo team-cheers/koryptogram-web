@@ -4,38 +4,4 @@
 <circle opacity="0.2" cx="58.5" cy="184.5" r="20.5" fill="#697BEC" fill-opacity="0.2"/>
 <rect opacity="0.2" x="-13" y="203.691" width="51.824" height="51.824" transform="rotate(-59.5821 -13 203.691)" fill="#384FDF" fill-opacity="0.1"/>
 <rect opacity="0.2" x="-17.2084" y="703.097" width="51.824" height="51.824" transform="rotate(-107.936 -17.2084 703.097)" fill="#384FDF" fill-opacity="0.2"/>
-<g opacity="0.2">
-<mask id="mask0_216_576" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-29" y="0" width="122" height="122">
-<rect x="-29" y="76.8691" width="89.1384" height="89.1384" transform="rotate(-59.5821 -29 76.8691)" fill="black" fill-opacity="0.6"/>
-<rect x="-28.3157" y="76.6911" width="88.1384" height="88.1384" transform="rotate(-59.5821 -28.3157 76.6911)" stroke="#697BEC" stroke-opacity="0.3"/>
-</mask>
-<g mask="url(#mask0_216_576)">
-<path d="M1.96036 0V122.121" stroke="#697BEC" stroke-opacity="0.3"/>
-<path d="M5.40039 0V122.121" stroke="#697BEC" stroke-opacity="0.3"/>
-<path d="M8.84042 0V122.121" stroke="#697BEC" stroke-opacity="0.3"/>
-<path d="M12.2805 0V122.121" stroke="#697BEC" stroke-opacity="0.3"/>
-<path d="M15.7205 0V122.121" stroke="#697BEC" stroke-opacity="0.3"/>
-<path d="M19.1606 0V122.121" stroke="#697BEC" stroke-opacity="0.3"/>
-<path d="M22.6006 0V122.121" stroke="#697BEC" stroke-opacity="0.3"/>
-<path d="M26.0406 0V122.121" stroke="#697BEC" stroke-opacity="0.3"/>
-<path d="M29.4807 0V122.121" stroke="#697BEC" stroke-opacity="0.3"/>
-<path d="M32.9207 0V122.121" stroke="#697BEC" stroke-opacity="0.3"/>
-<path d="M36.3607 0V122.121" stroke="#697BEC" stroke-opacity="0.3"/>
-<path d="M39.8008 0V122.121" stroke="#697BEC" stroke-opacity="0.3"/>
-<path d="M43.2408 0V122.121" stroke="#697BEC" stroke-opacity="0.3"/>
-<path d="M46.6809 0V122.121" stroke="#697BEC" stroke-opacity="0.3"/>
-<path d="M50.1209 0V122.121" stroke="#697BEC" stroke-opacity="0.3"/>
-<path d="M53.561 0V122.121" stroke="#697BEC" stroke-opacity="0.3"/>
-<path d="M57.001 0V122.121" stroke="#697BEC" stroke-opacity="0.3"/>
-<path d="M60.441 0V122.121" stroke="#697BEC" stroke-opacity="0.3"/>
-<path d="M63.8811 0V122.121" stroke="#697BEC" stroke-opacity="0.3"/>
-<path d="M67.3211 0V122.121" stroke="#697BEC" stroke-opacity="0.3"/>
-<path d="M70.7612 0V122.121" stroke="#697BEC" stroke-opacity="0.3"/>
-<path d="M74.2012 0V122.121" stroke="#697BEC" stroke-opacity="0.3"/>
-<path d="M77.6412 0V122.121" stroke="#697BEC" stroke-opacity="0.3"/>
-<path d="M81.0813 0V122.121" stroke="#697BEC" stroke-opacity="0.3"/>
-<path d="M84.5213 0V122.121" stroke="#697BEC" stroke-opacity="0.3"/>
-<path d="M87.9614 0V122.121" stroke="#697BEC" stroke-opacity="0.3"/>
-</g>
-</g>
 </svg>
