@@ -95327,8 +95327,8 @@ B.bp.aP(0)
 s=this.a
 r=s.a
 q=r.r
-p="\u231b\uac78\ub9b0\uc2dc\uac04 "+r.c
-o=q?p+"\n\ud55c\uae00 \ucf54\ub4dc\ub97c \ud480\uc5b4\ubcf4\uc138\uc694!\n\ucf54\ub9bd\ud1a0\uadf8\ub7a8 KORyptogram":p+"\n\ud83d\udca1\ud78c\ud2b8 "+r.d+"\n\n\ud55c\uae00 \ucf54\ub4dc\ub97c \ud480\uc5b4\ubcf4\uc138\uc694!\n\ucf54\ub9bd\ud1a0\uadf8\ub7a8 KORyptogram"
+p=r.c
+o=q?"\ud83c\udfc6"+r.w+"\ubc88\uc9f8\ub85c \ud480\uc5b4\uc11c "+r.x+"\uc704 \ud588\uc5b4\uc694.\n\u231b\uac78\ub9b0\uc2dc\uac04 "+p+"\n\ud55c\uae00 \ucf54\ub4dc\ub97c \ud480\uc5b4\ubcf4\uc138\uc694!\n\ucf54\ub9bd\ud1a0\uadf8\ub7a8 KORyptogram\nhttps://team-cheers.github.io/koryptogram-web/static/download_app":"\u231b\uac78\ub9b0\uc2dc\uac04 "+p+"\n\ud83d\udca1\ud78c\ud2b8 "+r.d+"\n\n\ud55c\uae00 \ucf54\ub4dc\ub97c \ud480\uc5b4\ubcf4\uc138\uc694!\n\ucf54\ub9bd\ud1a0\uadf8\ub7a8 KORyptogram\nhttps://team-cheers.github.io/koryptogram-web/static/download_app"
 if(q)A.aut(o)
 else A.aut(s.a2Q(r.f)+"\n"+o)},
 $S:7}
